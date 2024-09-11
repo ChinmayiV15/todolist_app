@@ -3,12 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/30992818/62850471-84b61880-bd15-11e9-80d7-e2ed87aee4fe.png)
 
-Language:[简体中文](https://github.com/asjqkkkk/todo-list-app/blob/master/README_ZH.md)|[English](https://github.com/asjqkkkk/todo-list-app/blob/master/README.md)
-
-[![support](https://img.shields.io/badge/platform-flutter%7Cdart%20vm-ff69b4.svg?style=flat-square)](https://github.com/asjqkkkk/todo-list-app)
-[![GitHub license](https://img.shields.io/github/license/asjqkkkk/todo-list-app)](https://github.com/asjqkkkk/todo-list-app/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/asjqkkkk/flutter-todos.svg?branch=master)](https://travis-ci.org/asjqkkkk/flutter-todos)
-[![apkdownload](https://img.shields.io/badge/download-apk-brightgreen)](https://github.com/asjqkkkk/flutter-todos/releases/download/v1.1.0/todo-list.apk)
 
 
 | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006496-c7cb6300-d935-11e9-839b-0f84c8c1b20b.png"/> | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006498-c863f980-d935-11e9-88c2-bc2308248da9.png"/> | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006501-c9952680-d935-11e9-8bc7-0f94031a9942.png"/> | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006492-c732cc80-d935-11e9-89c3-7e75df55c3d4.png"/> |
@@ -207,34 +201,4 @@ widgets | custom widgets
 - [ ] Custom task details page font size
 - [ ] Geek news
 - [x] Whether to show the opening animation
-
-
-
-
-# Appendix
-
-## app download
-
-Android download link：
-
-
-
-<img width="250" height="250" src="https://user-images.githubusercontent.com/30992818/65225126-225fed00-daf7-11e9-9eb7-cd21e6b1cc95.png"/>
-
-Ios download link：
-
-  I haven't purchased an iOS developer account for 99$ a year
-  
-    Note: The current project running environment is the version of flutter v1.9.1+hotfix.6. The modified version has more destructive fixes than before.
-    If your version of flutter is lower than the current version, some third-party libraries that are dependent on the project will not run. Please lower their version at that time.
-    
-    The following is a third-party library that needs to be modified under version 1.5.4.
-    
-    -   flutter_svg: ^0.12.4+2
-    -   image_crop: ^0.2.1
-    -   flare_flutter: ^1.5.4
-    -   photo_view: ^0.3.3
-
-
-If you think this app is good, or if this project helps you, give this project a Star. The project will continue to be updated and maintained afterwards.！
 
